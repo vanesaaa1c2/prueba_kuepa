@@ -1,0 +1,893 @@
+Campaña,Estado de la campaña,Tipo de campaña,Clics,Impr.,CTR,Código de moneda,CPC medio,Coste,Conversiones,Conv. post-impresión,Coste/conv.,Tasa de conv.
+16_DISPLAY_NB_PRO_PREICFES_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_Display_NB_Prospecting,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+16_Display_NB_Remarketing,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_BRAND_GENERICO_BROAD_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_BRAND_GENERICO_BROAD_BOG #2,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_BRAND_GENERICO_EXACT_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_BRAND_GENERICO_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_COM_ADMIN_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_COM_GENERICO_BROAD_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_COM_INGLES_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_COM_PREICFES_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_COM_TECNOLOGIA_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_COM_TURISMO_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_COM_VENTAS_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_ADMIN_BROAD_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_ADMIN_EXACT_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_ADMIN_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_DSA_GENÉRICO_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_GENERICO_BROAD_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_ICFES_BROAD_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_ICFES_EXACT_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_ICFES_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_INGLES_BROAD_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_INGLES_EXACT_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_INGLES_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_PRE.ICFES_BROAD_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_PRE.ICFES_EXACT_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_PRE.ICFES_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_PREICFES_BROAD_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_PREICFES_EXACT_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_PREICFES_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_TECNOLOGIA_BROAD_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_TECNOLOGIA_EXACT_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_TECNOLOGIA_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_TURISMO_BROAD_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_TURISMO_EXACT_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_TURISMO_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_VENTAS_BROAD_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_VENTAS_EXACT_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+16_SEARCH_NB_VENTAS_PHRASE_BOG,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+2_SEM_Bachillerato_Online_Colombia_ExcluyendoBogota,Habilitada,Buscar,2.613,28.108,"9,30%",COP,"899,54","2350502,88","582,75",0,"4033,49","22,30%"
+2_SEM_Bachillerato_Online_Colombia_ExcluyendoBogota y Antioquia #2,Habilitada,Buscar,271.0,2.773,"9,77%",COP,"766,78","207796,29",48,0,"4329,09","17,71%"
+Bachillerato 2018 #2,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Bachillerato Bogotá Presencial,En pausa,Inteligente,0.0,0.0,0,COP,0,0,0,0,0,0
+Bachillerato Bogotá YouTube,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+bachillerato online_barranquilla,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+bachillerato online_cali,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+bachillerato online_cartagena,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+bachillerato online_medellín,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Bachillerato Virtual 2018 - Afuera #2,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Bachillerato Virtual 2018 - Bogotá #2,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Bachillerato Virtual YouTube,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+Bachillerato Virtual_Cali,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Bachillerato Virtual_Cali #2,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Bachillerato Virtual_Medellin,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Bachillerato_online_cali,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Bogotá localidades Performace,En pausa,Rendimiento máximo,0.0,0.0,0,COP,0,0,0,0,0,0
+DIC--ENE2016,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+DIC--ENE2016-Display,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+display_virtual temporada,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+Enero Bachillerato 2018,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Enero Bachillerato Virtual 2018,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Enero Preicfes 2018,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Febrero Bachillerato 2018,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Febrero Bachillerato Virtual 2018,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Febrero Inglés 2018,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Febrero Preicfes 2018,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+FV_Remarketing,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Bachillerato_OnLine_Bogota_Feb2021_RMKT,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Bachillerato_OnLine_Colombia,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Bachillerato_OnLine_Colombia_Aniversario_13años,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Bachillerato_OnLine_Colombia_APP,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Bachillerato_OnLine_Colombia_ATuRitmo,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Bachillerato_OnLine_Colombia_Feb2021_RMKT,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Bachillerato_OnLine_Colombia_JUL2021,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Bachillerato_OnLine_Colombia_Mar2021_RMKT,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Bachillerato_OnLine_Colombia1_RMKT,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Bachillerato_OnLine_PC_Colombia_JUL2021,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Bachillerato_Presencial_Categoria_Bogota,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Bto_Temp_23_24,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_HiBogota_Licitación,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+GDN_Maestria_EduTech_OnLine_Colombia,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+Inglés 2018_Mayo,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Ingles Display Abril 2018,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+Inglés Intensivo 2018,Retirada,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+Inglés Intereses,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+Inglés YouTube,Retirada,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+Inglés YouTube Video,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+Kuepa Chile_Estudios Medios,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+LV_Bachillerato_OnLine_Bogota,Retirada,Local,0.0,0.0,0,COP,0,0,0,0,0,0
+LV_Bachillerato_OnLine_Calle_72,En pausa,Inteligente,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Competencia - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Competencia - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Competencia - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Competencia - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Competencia - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Competencia - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Curso de Ingles_BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Curso de Ingles_BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Curso de Ingles_BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Curso de Ingles_BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Curso de Ingles_EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Curso de Ingles_EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Curso de Ingles_PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Curso de Ingles_PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Bachiller Online - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Bachiller Online - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Bachiller Online - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Bachiller Online - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Bachiller Online - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Bachiller Online - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Bachiller Online - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Bachiller Online - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Bachiller Online - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Curso Online - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Curso Online - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Curso Online - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Curso Online - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Curso Online - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Curso Online - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Curso Online - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Curso Online - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Curso Online - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Secundario Online - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Secundario Online - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Secundario Online - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Secundario Online - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Secundario Online - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Secundario Online - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Secundario Online - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Secundario Online - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Secundario Online - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Simulacro Online - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Simulacro Online - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Simulacro Online - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Simulacro Online - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Simulacro Online - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Simulacro Online - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Simulacro Online - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Simulacro Online - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Gen / Simulacro Online - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachiller - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Bachillerato - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Nombres de Colegios,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Nombres de Colegios,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Nombres de Colegios,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Nombres de Colegios,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Nombres de Colegios,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_GeoFon - Secundario - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_MEX_Ceneval - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_MEX_Ceneval - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_MEX_Ceneval - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_MEX_Ceneval - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_MEX_Ceneval - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_MEX_Ceneval - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Saber 11 - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Preicfes Validación- Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Broad,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Exact,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presaber - Phrase,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presencial Bachiller - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presencial Bachiller - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presencial Bachiller - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presencial Bachiller - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presencial Bachillerato - BMM,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presencial Bachillerato - BRO,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presencial Bachillerato - EXA,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP_Presencial Bachillerato - PHR,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Competencia,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Competencia2,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Bachiller - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Bachiller - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Bachiller - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Bachiller - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Bachiller - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Bachillerato - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Bachillerato - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Bachillerato - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Bachillerato - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Bachillerato - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Nombres de Colegios,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Nombres de Colegios,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Nombres de Colegios,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Nombres de Colegios,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Nombres de Colegios,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Secundario - New,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Secundario - New,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Secundario - New,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Secundario - New,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_GeoFon - Secundario - New,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes Validación- Broad,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes Validación- Broad,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes Validación- Broad,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes Validación- Broad,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Preicfes Validación- Broad,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Presencial Bachiller,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Presencial Bachillerato,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Presencial Secundario,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Remarketing,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Remarketing,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Remarketing,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Remarketing Nueva,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Remarketing Nueva,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Remarketing Nueva,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Similar Audiences,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Similar Audiences,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP_Similar Audiences,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_educabilia.com.co - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Bachiller - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Bachiller - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Bachiller - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Bachiller - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Bachiller - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Bachillerato - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Bachillerato - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Bachillerato - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Bachillerato - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Bachillerato - New,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Nombres de Colegios,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Nombres de Colegios,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Nombres de Colegios,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Nombres de Colegios,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Nombres de Colegios,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Secundario - New,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Secundario - New,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Secundario - New,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Secundario - New,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_GeoFon - Secundario - New,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_icfesinteractivo.info - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mail.google.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_mentesenblanco-razonamientoabstracto.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_pasaralaunacional.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_preicfes.net - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_yahoo.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Competencia,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Bachiller Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Curso Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Secundario Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Gen / Simulacro Online,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Preicfes,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Preicfes Saber 11,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-PL_youtube.com - Presaber,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-Remarketing,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-Remarketing,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-Remarketing,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-Remarketing - Proyecto Bogota,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-Remarketing - Proyecto Bogota,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-Remarketing - Proyecto Bogota,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-Remarketing - Proyecto Bogota,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+MP-DP-Remarketing - Proyecto Bogota,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+Nivel Ingles 2018,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Nivel Ingles 2018_Mayo,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Nivel Inglés Banner,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+Nivel Ingles Display,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+Nivel Inglés Display,Retirada,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+PMax: LV_Bachillerato_OnLine_Bogota,En pausa,Rendimiento máximo,0.0,0.0,0,COP,0,0,0,0,0,0
+Preicfes Bogotá Presencial,En pausa,Inteligente,0.0,0.0,0,COP,0,0,0,0,0,0
+Preicfes Virtual 2018,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Preicfes Virtual 2018,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Prueba20,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_ColombiaNueva,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Llamadas_2021,Habilitada,Buscar,1.27,7.053,"18,01%",COP,"321,16",407873,"9,96",0,"40970,14","0,78%"
+SEM_Bachillerato_Llamadas_2021 #2,Habilitada,Buscar,5.569,20.228,"27,53%",COP,"1162,46","6473743,62","938,69",0,"6896,57","16,86%"
+SEM_Bachillerato_Llamadas_2021 #3,Habilitada,Buscar,2.024,7.209,"28,08%",COP,"1000,12","2024233,13","350,9",0,"5768,74","17,34%"
+SEM_Bachillerato_Llamadas_2021 #4,Habilitada,Buscar,290.0,834.0,"34,77%",COP,"1070,71","310506,24","37,71",0,"8234,15","13,00%"
+SEM_Bachillerato_OnLine_Antioquia,Habilitada,Buscar,1.22,10.881,"11,21%",COP,"314,33",383486,0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Antioquia_Amplia_Mo_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Antioquia_Frase_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Antioquia_Top10,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Barranquilla,Habilitada,Buscar,577.0,5.137,"11,23%",COP,"482,34",278311,0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Barranquilla_Amplia_Mo_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Barranquilla_Frase_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Barranquilla_Top10,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Bogota,Habilitada,Buscar,5.295,39.096,"13,54%",COP,"326,8",1730422,0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Bogota_Amplia_Mo_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Bogota_C,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Bogota_Frase_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Bogota_Top10,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Bogota_Web_ClientesNuevos,Habilitada,Buscar,665.0,2.318,"28,69%",COP,"1372,23","912530,71","121,88",0,"7487,43","18,33%"
+SEM_Bachillerato_Online_Bogota2022,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Online_BogotaLocalidades,Habilitada,Buscar,3.233,13.571,"23,82%",COP,"1267,65","4098314,5","510,76",0,"8024,01","15,80%"
+SEM_Bachillerato_Online_BogotaLocalidades #2,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Online_BogotaLocalidades #3,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Online_BogotaLocalidades #4,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Online_BogotaLocalidades #5,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Online_BogotaLocalidades #6,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Online_BogotáLocalidades_Nueva,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Boyaca,Habilitada,Buscar,192.0,1.202,"15,97%",COP,"650,35",124868,0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Boyaca_Amplia_Mo_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Boyaca_Frase_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Boyaca_Top10,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Caldas,Habilitada,Buscar,84.0,161.0,"52,17%",COP,"261,12","21933,83",0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Caldas_Amplia_Mo_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Caldas_Frase_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Caldas_Top10,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Cali,Habilitada,Buscar,769.0,7.668,"10,03%",COP,"400,97",308344,0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Cali_Amplia_Mo_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Cali_Frase_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Cali_Top10,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Cesar,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Colombia,Habilitada,Buscar,1.134,10.366,"10,94%",COP,"500,48","567548,2",0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Colombia_Amplia_Mo_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Colombia_C,Habilitada,Buscar,866.0,9.635,"8,99%",COP,"292,5",253307,0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Colombia_Frase_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Colombia_Top10,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Colombia_Web,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Online_Colombia2022,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Cundinamarca,Habilitada,Buscar,266.0,2.085,"12,76%",COP,"572,19",152202,0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Cundinamarca_Amplia_Mo_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Cundinamarca_Frase_Wak,Habilitada,Buscar,278.0,2.626,"10,59%",COP,"674,28",187451,0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Cundinamarca_Top10,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Online_Cundinamarca2022,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Hombres_18_24_Ago2021,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Huila,Habilitada,Buscar,551.0,3.733,"14,76%",COP,"536,24",295469,0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Huila_Amplia_Mo_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Huila_Frase_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Huila_Top10,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Ligasdeportivas_23,Habilitada,Buscar,1.208,12.267,"9,85%",COP,"357,22",431523,0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Mujeres_18_24,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Mujeres_25_34,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Online_Nariño,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Padres_40_55_Oct2021,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Online_Performance_ Max-4,Habilitada,Rendimiento máximo,33.032,825.978,"4,00%",COP,"200,03","6607240,09","3.239,16",0,"2039,8","8,22%"
+SEM_Bachillerato_OnLine_PruebaBogotá,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Online_PruebaMedellin,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Santander,Habilitada,Buscar,1.461,9.08,"16,09%",COP,"584,93",854590,0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Santander_Amplia_Mo_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Santander_Frase_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Santander_Top10,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Soacha,Habilitada,Buscar,110.0,218.0,"50,46%",COP,"60,39","6643,39",0,0,0,"0,00%"
+SEM_Bachillerato_Online_Soacha2022,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Tolima,Habilitada,Buscar,205.0,1.556,"13,17%",COP,"656,43",134568,0,0,0,"0,00%"
+SEM_Bachillerato_OnLine_Tolima  Prueba 305,Habilitada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Tolima_Amplia_Mo_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Tolima_Frase_Wak,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_OnLine_Tolima_Top10,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Plus_Oct2021,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Presencial_Bogotá_NuevaC,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Presencial_Sedes,Habilitada,Buscar,1.895,21.312,"8,89%",COP,"563,18","1067233,6",0,0,0,"0,00%"
+SEM_Bachillerato_Presencial_Sedes #2,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_SedesPresencial_Bogotá,Habilitada,Buscar,3.052,18.996,"16,07%",COP,"479,85",1464495,"29,77",0,"49189,42","0,98%"
+SEM_Bachillerato_SedesPresencial_Bogotá #2,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Bachillerato_Virtual_Fin_de_Semana,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Creando_Tu_Futuro_CO_MX,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Creando_Tu_Futuro_Mexico,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Creando_Tu_Futuro_Mexico,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Creando_Tu_Futuro_Mexico_Ciudades,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Creando_Tu_Futuro_Mexico_EstadosPrueba,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Creando_Tu_Futuro_Mexico_Nueva,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Creando_Tu_Futuro_Mexico_Total,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Ingles_Intensivo_Colombia,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Ingles_Intensivo_Municipios_Bogota,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Inglés_Licitacion_Hibogota,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Ingles_Virtual_Colombia_Buscan _Empleo,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Ingles_Virtual_Colombia_Mejora_Empleo,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Ingles_Virtual_Colombia_Universidades,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Kuepa_posicionamiento_marca_Blog,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Kuepa_posicionamiento_marca_LAntigua,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Kuepa_posicionamiento_marca_Lnueva,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Maestria_EduTech_OnLine_Colombia,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Preicfes_Virtual_Colombia,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Tecnico_Administrativo_Postulados,Habilitada,Buscar,2.519,31.034,"8,12%",COP,"517,5",1303581,6,0,"217263,5","0,24%"
+SEM_Tecnico_Administrativo_Postulados #2,Habilitada,Buscar,1.215,4.434,"27,40%",COP,"803,59","976367,79","373,7",0,"2612,71","30,76%"
+SEM_Tecnico_ConvenioB2B,Habilitada,Buscar,2.136,58.248,"3,67%",COP,"290,85",621264,1,0,621264,"0,05%"
+SEM_Tecnico_ConvenioB2B #2,Habilitada,Buscar,535.0,3.239,"16,52%",COP,"686,07","367045,37",101,0,"3634,11","18,88%"
+SEM_Tecnico_Mercadeo_Postulados,Habilitada,Buscar,795.0,7.641,"10,40%",COP,"768,64","611072,52",55,0,"11110,41","6,92%"
+SEM_Tecnico_Mercadeo_Postulados #2,Habilitada,Buscar,428.0,2.103,"20,35%",COP,"1298,32","555679,4","109,33",0,"5082,43","25,55%"
+SEM_Test_Cundinamarca,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Tráfico_Kuepa_Bto,Habilitada,Buscar,326.0,1.528,"21,34%",COP,"1098,26","358034,09","48,82",0,"7333,18","14,98%"
+Tecnico Admon,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+Técnico Admon,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+Tecnico Empresarial 2018,Retirada,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Técnico Empresarial 2018,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Técnico En Admon,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+Tecnico TIC,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+Técnico TIC,En pausa,Display,0.0,0.0,0,COP,0,0,0,0,0,0
+Técnico TIC 2018,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Tecnicos_Tráfico_KuepaB2B,En pausa,Buscar,173.0,611.0,"28,31%",COP,"799,39","138295,01",12,0,"11524,58","6,94%"
+YT_Bachillerato_ATuRitmo_Lanzamiento,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_LMS,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_AGO2021,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Clases,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Educación_Desde_Casa,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Error,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Error2,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Error3,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Los_Mejores,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Regreso_Clases,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_David,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Deportistas_Agos2021,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Juanita,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Julian,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Mama_Julian,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Miguel,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Monica,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Monica_2,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Musicos_Agos2021,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Sandra,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Sandra_Sin_Omitir,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Sofia,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Tu_Sueño,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Varios,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Victor,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimonial_Ximena,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Colombia_Testimoniales_Con_Omitir,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_Padres_AGO2021,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_Online_Slogan,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Bachillerato_OnLine_VideoPromo_Kuepa,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Inglés_Licitacion_Hibogota,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Kuepa_Plus,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Kuepa_Reconocimiento de marca,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_KueparlantesCH1_Colombia,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT_Secuencia_Bachillerato_TupropioCamino,Habilitada,Vídeo,261.0,36.25,"0,72%",COP,"504,97","131798,15",0,0,0,"0,00%"
+YT_Secuencia_Tec,Habilitada,Vídeo,337.0,62.42,"0,54%",COP,"683,88","230466,53",0,0,0,"0,00%"
+YT_Tecnicos_Postulados,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+YT6s_Bachillerato_OnLine_Colombia,En pausa,Vídeo,0.0,0.0,0,COP,0,0,0,0,0,0
+Blog traffic,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+Consideración de vídeo - 2022-11-21,Habilitada,Vídeo,68.0,33.719,"0,20%",COP,"2132,49","145009,54",2,0,"72504,77","0,01%"
+ING - Performance Max-NA,Habilitada,Rendimiento máximo,13.37,204.667,"6,53%",COP,"55,69","744605,7","1.565,24",0,"475,71","9,14%"
+PMax: SEM_Ingenieria_OnLine_Cundinamarca,Habilitada,Rendimiento máximo,0.0,0.0,0,COP,0,0,0,0,0,0
+PXR traffic-Search,En pausa,Buscar,0.0,0.0,0,COP,0,0,0,0,0,0
+SEM_Administracion_Online_Antioquia,Habilitada,Buscar,2.348,23.419,"10,03%",COP,"803,09","1885646,86","787,72",0,"2393,82","33,55%"
+SEM_Administracion_Online_Antioquia 2#,Habilitada,Buscar,646.0,5.813,"11,11%",COP,"805,89","520607,97","179,5",0,"2900,26","27,79%"
+SEM_Administracion_Online_Bogota,Habilitada,Buscar,1.466,10.708,"13,69%",COP,"954,42","1399178,19","741,52",0,"1886,9","50,58%"
+SEM_Administracion_Online_Bogota #2,Habilitada,Buscar,1.372,6.207,"22,10%",COP,"839,66","1152011,31","801,58",0,"1437,18","58,42%"
+SEM_Administracion_Online_Bogota #3,Habilitada,Buscar,291.0,1.666,"17,47%",COP,"726,86","211517,32","155,94",0,"1356,43","53,59%"
+SEM_Administracion_Online_Cali,Habilitada,Buscar,512.0,4.406,"11,62%",COP,"890,64","456008,82",174,0,"2620,73","33,98%"
+SEM_Administracion_Online_Cauca,Habilitada,Buscar,1.088,6.958,"15,64%",COP,"698,54","760012,85",211,0,"3601,97","19,39%"
+SEM_Administracion_Online_Cauca #2,Habilitada,Buscar,398.0,3.511,"11,34%",COP,"769,72","306349,5",75,0,"4084,66","18,84%"
+SEM_Administracion_Online_Meta,Habilitada,Buscar,1.621,12.571,"12,89%",COP,"858,3","1391299,72",374,0,"3720,01","23,07%"
+SEM_Administracion_Online_Meta #2,Habilitada,Buscar,280.0,2.458,"11,39%",COP,"979,65","274300,68",71,0,"3863,39","25,36%"
+SEM_Administracion_Online_Santander,Habilitada,Buscar,619.0,6.453,"9,59%",COP,"1227,64","759911,37",185,0,"4107,68","29,89%"
+SEM_Administrativo_Online_Boyacá,Habilitada,Buscar,2.358,18.01,"13,09%",COP,"1484,94","3501497,27","696,49",0,"5027,38","29,54%"
+SEM_Administrativo_Online_Boyacá #2,Habilitada,Buscar,136.0,1.306,"10,41%",COP,"1335,35","181607,14",30,0,"6053,57","22,06%"
+SEM_Administrativo_Online_Boyacá #3,Habilitada,Buscar,39.0,413.0,"9,44%",COP,"2042,09","79641,5",11,0,"7240,14","28,21%"
+SEM_Administrativo_Online_Cundinamarca,Habilitada,Buscar,482.0,3.973,"12,13%",COP,"1578,49","760832,44",181,0,"4203,59","37,55%"
+SEM_Administrativo_Online_Nariño,Habilitada,Buscar,445.0,3.581,"12,43%",COP,"1707,75","759948,13",104,0,"7307,19","23,37%"
+SEM_Contaduria_Online_Antioquia,Habilitada,Buscar,1.962,15.28,"12,84%",COP,"707,76","1388618,73",380,0,"3654,27","19,37%"
+SEM_Contaduria_Online_Antioquia #2,Habilitada,Buscar,1.252,16.225,"7,72%",COP,"627,15","785187,89",228,0,"3443,81","18,21%"
+SEM_Ingenieria_Boyaca_NA,Habilitada,Buscar,913.0,6.176,"14,78%",COP,"832,77","760321,19","269,41",0,"2822,16","29,51%"
+SEM_Ingenieria_Boyaca_NA #2,Habilitada,Buscar,1.278,6.752,"18,93%",COP,"394,59","504288,85","383,89",0,"1313,63","30,04%"
+SEM_Ingenieria_Cundinamarca_NA,Habilitada,Buscar,199.0,1.146,"17,36%",COP,"3557,54","707951,16","89,11",0,"7944,48","44,78%"
+SEM_Ingenieria_OnLine_Bogota,Habilitada,Buscar,495.0,2.597,"19,06%",COP,"923,81",457286,28,0,"16331,64","5,66%"
+SEM_Ingenieria_OnLine_Cundinamarca,En pausa,Buscar,461.0,2.059,"22,39%",COP,"1659,48","765022,2","206,35",0,"3707,44","44,76%"
+SEM_Ingenieria_Online_NA,Habilitada,Buscar,802.0,9.178,"8,74%",COP,"856,21","686683,47",130,0,"5282,18","16,21%"
